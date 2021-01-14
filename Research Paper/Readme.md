@@ -42,5 +42,7 @@ https://arxiv.org/pdf/1908.07919.pdf
 ResNeSt: Split-Attention Networks(2020)
 https://arxiv.org/pdf/2004.08955v1.pdf
 
+# GAN
 
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
 
