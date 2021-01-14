@@ -44,5 +44,7 @@ https://arxiv.org/pdf/2004.08955v1.pdf
 
 # GAN
 
+* [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
 
